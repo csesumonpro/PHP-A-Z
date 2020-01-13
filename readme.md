@@ -9,87 +9,163 @@
 <a href="https://www.facebook.com/csesumonpro" rel="nofollow">Like Us</a></p>
 
 # About PHP
+
 #Language Reference
 
 ####Basic syntax
+
 ####Types
+
 ####Variables
+
 ####Constants
+
 ####Expressions
+
 ####Operators
+
 ####Control Structures
+
 ####Functions
+
 ####Classes and Objects
+
 ####Namespaces
+
 ####Errors
+
 ####Exceptions
+
 ####Generators
+
 ####References Explained
+
 ####Predefined Variables
+
 ####Predefined Exceptions
+
 ####Predefined Interfaces and Classes
+
 ####Context options and parameters
+
 ####Supported Protocols and Wrappers
 
+
 #Security
+
 ####Introduction
+
 ####General considerations
+
 ####Installed as CGI binary
+
 ####Installed as an Apache module
+
 ####Session Security
+
 ####Filesystem Security
+
 ####Database Security
+
 ####Error Reporting
+
 ####Using Register Globals
+
 ####User Submitted Data
+
 ####Magic Quotes
+
 ####Hiding PHP
+
 ####Keeping Current
 
+
 #Features
+
 ####HTTP authentication with PHP
+
 ####Cookies
+
 ####Sessions
+
 ####Dealing with XForms
+
 ####Handling file uploads
+
 ####Using remote files
+
 ####Connection handling
+
 ####Persistent Database Connections
+
 ####Safe Mode
+
 ####Command line usage
+
 ####Garbage Collection
+
 ####DTrace Dynamic Tracing
 
+
 #Function Reference
+
 ####Affecting PHP's Behaviour
+
 ####Audio Formats Manipulation
+
 ####Authentication Services
+
 ####Command Line Specific Extensions
+
 ####Compression and Archive Extensions
+
 ####Credit Card Processing
+
 ####Cryptography Extensions
+
 ####Database Extensions
+
 ####Date and Time Related Extensions
+
 ####File System Related Extensions
+
 ####Human Language and Character Encoding Support
+
 ####Image Processing and Generation
+
 ####Mail Related Extensions
+
 ####Mathematical Extensions
+
 ####Non-​Text MIME Output
+
 ####Process Control Extensions
+
 ####Other Basic Extensions
+
 ####Other Services
+
 ####Search Engine Extensions
+
 ####Server Specific Extensions
+
 ####Session Extensions
+
 ####Text Processing
+
 ####Variable and Type Related Extensions
+
 ####Web Services
+
 ####Windows Only Extensions
+
 ####XML Manipulation
+
 ####GUI Extensions
+
   
 #Main Topics
+
 ##1.PHP Basics
 <ul>
     <li>Syntax</li>
